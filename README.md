@@ -179,8 +179,8 @@ Frontend/
 
 # 👩‍💻 Contributors
 
-- Dina P
-- Pavithra R
+- **Dina P**
+- **Pavithra R**
 
 
 
